@@ -1,0 +1,1 @@
+Lessons Of The Pharaoh is my first simple game creation using C++. I learned how to create this game through a self guided course called Unreal Engine C++ Developer: Learn C++ and Make Video Games. 
